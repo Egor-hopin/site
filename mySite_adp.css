@@ -1,0 +1,13 @@
+footer {height: 45vh; bottom: -90%;}
+
+.main_of_watch {display: none;}
+
+.button_of_watch {display: none;}
+
+.line_of_menu {display: none;}
+
+.line_of_main {display: none;}
+
+.button_of_menu {display: none;}
+
+.block_of_contacts_after {transform: translatey(0); transition-duration: 0.8s;}
